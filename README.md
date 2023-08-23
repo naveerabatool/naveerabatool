@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naveerabatool
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning WordPress.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 You can reach me through my email nbkn731@gmail.com.
 
 <!---
 naveerabatool/naveerabatool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
