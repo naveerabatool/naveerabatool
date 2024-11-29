@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveerabatool
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning Drupal.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me through my email nbkn731@gmail.com.
 
